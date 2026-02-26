@@ -32,7 +32,7 @@ We tested and compared:
 ## Results (comparison table)
 At fixed threshold `0.20`, we compared the selected model with other strong baselines.
 
-![Model comparison](comparison_table_github.png)
+![Model comparison](comparison_table.png)
 
 From the table:
 - **GradientBoosting** gives the strongest recall among compared models at this threshold.
