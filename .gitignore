@@ -11,6 +11,7 @@ env/
 
 # Jupyter
 .ipynb_checkpoints/
+*.ipynb
 
 # OS / editor
 .DS_Store
@@ -24,6 +25,11 @@ dist/
 
 # Logs
 *.log
+
+# Generated artifacts
+*.joblib
+predictions.json
+tried_models_metrics.csv
 
 # Notes:
 # - Survival_dataset.csv is intentionally tracked
